@@ -71,7 +71,7 @@ Additional Information
 | Tag | Description |
 | --- | ----------- |
 | bug | Bug or issues |
-|documentation | Improvements or additions to documentation |
+| documentation | Improvements or additions to documentation |
 | enhancement | New feature or request |
 | ready to review | PR is ready to review |
 
