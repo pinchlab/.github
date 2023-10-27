@@ -27,10 +27,8 @@ fix: fix typo
 | fix      | fix bugs or issues |
 | modify   | change features, functions, or other requirements |
 | docs     | update document |
-| refactor | refactoring |
-| chore    | non-code setting change |
-| style    | update code formatting |
-| perf     | improve performance |
+| refactor | refactoring, performance improvement |
+| chore    | non-code setting change (include style) |
 
 ### Branch
 
@@ -62,9 +60,9 @@ feat/new-feature
 **Format**
 
 ```
+Task Id
 Summary
 Checks
-Related Links
 Additional Information
 ```
 
