@@ -60,8 +60,8 @@ feat/new-feature
 **Format**
 
 ```
-Task Id
 Summary
+Task ID
 Checks
 Additional Information
 ```
