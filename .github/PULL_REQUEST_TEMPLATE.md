@@ -1,21 +1,15 @@
 ## 📑 Summary
 <!-- Add a brief description of the pr. You can add the images to tell more details about the pr. -->
 
+## 🔎 Task Id
+<!-- Please provide Asana task ID if the pr is related to an Asana task -->
 
 ## ✅ Checks
 <!-- Do check the following fields as needed - -->
-- [ ] My pull request adheres to the code style of this project
-- [ ] My code requires changes to the documentation
 - [ ] I have updated the documentation as required
-- [ ] Conflicts is fixed
-
-## Related Links
-<!-- If the pr is related to Asana's task, please provide the link. Yoe can provide other links as if needed -->
-
-**Asana**
-
-- link-1
-
+- [ ] Conflicts are fixed
+- [ ] I have tested all the changes are work
 
 ## ℹ️ Additional Information
 <!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
+<!-- If the PR fixes a bug, please provide the scenario to reproduce the issue -->
